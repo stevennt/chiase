@@ -7,6 +7,7 @@ import Auth from './screens/Auth';
 require('dotenv').config()
 configureFirebase();
 
+// Main App Component
 function App() {
   return (
     <div className="App">
