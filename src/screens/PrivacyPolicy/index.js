@@ -100,11 +100,11 @@ const PrivacyPolicy = () => {
           <p>
             <strong>Website</strong> refers to Sambal SOS, accessible from{" "}
             <a
-              href="https://www.sambalsos.com"
+              href="https://chiase.catlingo.club"
               rel="external nofollow noopener"
               target="_blank"
             >
-              https://www.sambalsos.com
+              https://chiase.artx.space
             </a>
           </p>
         </li>
@@ -529,17 +529,17 @@ const PrivacyPolicy = () => {
       </p>
       <ul>
         <li>
-          <p>By email: sambalsos.app@gmail.com</p>
+          <p>By email: thanhson@gmail.com</p>
         </li>
         <li>
           <p>
             By visiting this page on our website:{" "}
             <a
-              href="https://www.sambalsos.com/contact"
+              href="https://catlingo.club"
               rel="external nofollow noopener"
               target="_blank"
             >
-              https://www.sambalsos.com/contact
+              https://catlingo.club
             </a>
           </p>
         </li>

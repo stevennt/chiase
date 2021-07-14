@@ -1,0 +1,55 @@
+{
+    "auth": {
+        "title": "Chia sẻ",
+        "tagline": "Ứng dụng cộng đồng chia sẻ, giúp đỡ lẫn nhau lúc.",
+        "rebranded": "rebranded",
+        "upgraded": "upgraded",
+        "bendera-putih-redirect": "",
+        "login-disclaimer": "",
+        "google-button": "Đăng nhập với Google"
+    },
+    "home": {
+        "food-banks": "Nơi cấp đồ ăn",
+        "sos": "SOS",
+        "ask-for-help": "Giúp tôi",
+        "report-sos": "Gửi thông tin SOS"
+    },
+    "navigation": {
+        "find-sos": "Tìm SOS",
+        "food-banks": "Nơi cấp Banks",
+        "report-sos": "Gửi thông tin SOS",
+        "log-out": "Đăng xuất"
+    },
+    "foodbanks": {
+        "page-update-notice": "This page will soon be updated through a crowdsourced Google Sheets file!",
+        "add-foodbank-form": "Nhập thông tin về Nơi cấp đồ ăn",
+        "go-to-form": "Mở form",
+        "open-in-google-maps": "Mở bằng Google Maps"
+    },
+    "report-form": {
+        "report-for-help": "GỬI THÔNG TIN CẦN ĐƯỢC GIÚP ĐỠ SOS",
+        "image-added": "Đã thêm ảnh! 😄",
+        "add-image-prompt": "Thêm ảnh",
+        "should-not-be-a-white-flag": "",
+        "upload-disclaimer": "Ảnh này sẽ được đăng công cộng. Không gửi ảnh mang tính riêng tư.",
+        "set-address": "Xác định địa chỉ",
+        "location-set": "Vị trí đã được xác định! 😄",
+        "use-location-button": "Dùng vị trí hiện tại",
+        "or": "Hoặc",
+        "where-are-you": "Vị trí của bạn?",
+        "remarks": "Remarks",
+        "what-did-you-see": "Ví dụ: Có gì ở đấy?, ở đấy nhu cầu cần gì?",
+        "phone-number": "Điện thoại",
+        "optional": "Không bắt buộc",
+        "enter-phone-number": "Nhập số điện thoại",
+        "human-review-disclaimer": "Vì mục đích xác thực thông tin chính xác, đội ngũ tình nguyện sẽ kiểm soát thông tin được gửi, thời gian dự kiến là trong vòng 24h. Trân trọng cảm ơn.",
+        "terms-title": "Các điều cần chú ý:",
+        "term-1": "Hình ảnh minh hoạ có thể là ảnh chụp hoặc ảnh chụp màn hình chat",
+        "term-2": "Ảnh không nên chứa các thông tin cá nhân, không chứa ảnh mặt của người cần trợ giúp",
+        "term-3": "Nội dung cần đủ chi tiết đề người hỗ trợ tìm thấy được đến nơi",
+        "term-4": "Mọi thông tin chính trị, thông tin nhạy cảm, thông tin không phục vụ mục đích SOS đều không được đón nhận.",
+        "term-5": "Mọi thông tin đều được",
+        "privacy-policy": "bảo mật",
+        "submit-button": "Gửi"
+    }
+}

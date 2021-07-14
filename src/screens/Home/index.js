@@ -27,7 +27,8 @@ const Home = () => {
     const { t } = useTranslation();
     const accessToken = useSelector(state => state.auth.accessToken);
     const toast = useToast();
-    const [center, setCenter] = useState({ lat: 3.145081052343874, lng: 101.70524773008304 })
+    //const [center, setCenter] = useState({ lat: 3.145081052343874, lng: 101.70524773008304 })
+    const [center, setCenter] = useState({ lat: 10.85082371699439, lng: 106.689939585535 })
     const [flags, setFlags] = useState([]);
     const [loading, setLoading] = useState(true);
     const [selectedMarker, setSelectedMarker] = useState(null);
