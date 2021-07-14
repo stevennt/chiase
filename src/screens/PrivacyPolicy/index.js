@@ -104,7 +104,7 @@ const PrivacyPolicy = () => {
               rel="external nofollow noopener"
               target="_blank"
             >
-              https://chiase.artx.space
+              https://chiase.catlingo.club
             </a>
           </p>
         </li>
